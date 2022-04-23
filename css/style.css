@@ -315,7 +315,7 @@ body.lock {
   margin: 0 auto;
   min-height: 400px;
   height: 584px;
-  background: url("/img/intro-bg.png") 0 0 no-repeat;
+  background: url("img/intro-bg.png") 0 0 no-repeat;
 }
 
 .intro-bg form {
@@ -478,7 +478,7 @@ body.lock {
 }
 
 .slider__item {
-  background: url("/img/slider-bg.png") 10% 0 no-repeat;
+  background: url("img/slider-bg.png") 10% 0 no-repeat;
   height: 904px;
   text-align: center;
   margin: 0 auto;
@@ -718,31 +718,31 @@ body.lock {
 }
 
 .item-block-1 {
-  background: #fff url("/img/card-slider-1.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-1.png") 0 0 no-repeat;
 }
 
 .item-block-2 {
-  background: #fff url("/img/card-slider-2.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-2.png") 0 0 no-repeat;
 }
 
 .item-block-3 {
-  background: #fff url("/img/card-slider-3.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-3.png") 0 0 no-repeat;
 }
 
 .item-block-4 {
-  background: #fff url("/img/card-slider-4.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-4.png") 0 0 no-repeat;
 }
 
 .item-block-5 {
-  background: #fff url("/img/card-slider-5.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-5.png") 0 0 no-repeat;
 }
 
 .item-block-6 {
-  background: #fff url("/img/card-slider-6.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-6.png") 0 0 no-repeat;
 }
 
 .item-block-7 {
-  background: #fff url("/img/card-slider-6.png") 0 0 no-repeat;
+  background: #fff url("img/card-slider-6.png") 0 0 no-repeat;
 }
 
 .item-text {
@@ -801,7 +801,7 @@ body.lock {
 }
 
 .career__bg {
-  background: url("/img/brands-bg.png") 18% 0 no-repeat;
+  background: url("img/brands-bg.png") 18% 0 no-repeat;
   height: auto;
   max-width: 1280px;
   width: 100%;
@@ -1293,7 +1293,7 @@ body.lock {
     margin-top: 92px;
   }
   .slider__item {
-    background: url("/img/slider-bg.png") 0 0 no-repeat;
+    background: url("img/slider-bg.png") 0 0 no-repeat;
   }
   .slick-slide {
     width: 100%;
